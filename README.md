@@ -28,12 +28,10 @@ The repository currently contains reviewed PDF releases in these folders:
 
 | Folder | Contents |
 |---|---|
-| [`papers/`](papers/) | Current English and Spanish research manuscripts. |
-| [`books/`](books/) | CQA and CyberColombia books and university-level texts. |
-| [`reports/`](reports/) | Institutional reports and feasibility studies. |
-| [`presentations/`](presentations/) | Public presentation-ready reports. |
+| [`papers/`](papers/) | Current English research manuscripts. |
+| [`reports/`](reports/) | Current English institutional reports. |
 
-Only the latest identified PDF release of each work and language is included. Editable sources, superseded revisions, exact duplicates, confidential documents, meeting notes, raw survey or feedback exports, and participant contact lists are excluded from this public repository. The `documents/` and `education/` folders will be added when eligible public PDF releases are available.
+Only the latest identified English PDF release of each work is included. Non-English editions, editable sources, superseded revisions, exact duplicates, confidential documents, meeting notes, raw survey or feedback exports, and participant contact lists are excluded from this public repository. Other folders will be added when eligible public English PDF releases are available.
 
 Each PDF retains the copyright and reuse terms printed in that document. Those terms take precedence over the repository-level license for that PDF.
 

@@ -22,6 +22,21 @@ It provides a place to preserve our work, track revisions, recognize contributor
 - **Educational resources:** courses, tutorials, notebooks, and learning materials.
 - **Other outputs:** resources and supporting files created through CQA projects and collaborations.
 
+## Current PDF collection
+
+The repository currently contains reviewed PDF releases in these folders:
+
+| Folder | Contents |
+|---|---|
+| [`papers/`](papers/) | Current English and Spanish research manuscripts. |
+| [`books/`](books/) | CQA and CyberColombia books and university-level texts. |
+| [`reports/`](reports/) | Institutional reports and feasibility studies. |
+| [`presentations/`](presentations/) | Public presentation-ready reports. |
+
+Only the latest identified PDF release of each work and language is included. Editable sources, superseded revisions, exact duplicates, confidential documents, meeting notes, raw survey or feedback exports, and participant contact lists are excluded from this public repository. The `documents/` and `education/` folders will be added when eligible public PDF releases are available.
+
+Each PDF retains the copyright and reuse terms printed in that document. Those terms take precedence over the repository-level license for that PDF.
+
 ## Adding materials
 
 Organize new contributions in descriptive folders such as `documents/`, `reports/`, `papers/`, `books/`, `presentations/`, or `education/`, creating them as needed. Use clear filenames that identify the topic and, when useful, the date or version.

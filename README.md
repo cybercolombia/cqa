@@ -28,10 +28,11 @@ The repository currently contains reviewed PDF releases in these folders:
 
 | Folder | Contents |
 |---|---|
+| [`books/`](books/) | Current English CQA and CyberColombia books. |
 | [`papers/`](papers/) | Current English research manuscripts. |
 | [`reports/`](reports/) | Current English institutional reports. |
 
-Only the latest identified English PDF release of each work is included. Non-English editions, editable sources, superseded revisions, exact duplicates, confidential documents, meeting notes, raw survey or feedback exports, and participant contact lists are excluded from this public repository. Other folders will be added when eligible public English PDF releases are available.
+Only the latest identified English PDF release of each work is included. Non-English editions, editable sources, superseded revisions, exact duplicates, confidential documents, meeting notes, raw survey or feedback exports, and participant contact lists are excluded from this public repository.
 
 Each PDF retains the copyright and reuse terms printed in that document. Those terms take precedence over the repository-level license for that PDF.
 
